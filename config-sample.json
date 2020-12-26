@@ -1,0 +1,8 @@
+{
+  "awsKey": "",
+  "awsSecret": "",
+  "region": "",
+  "bucketName": "",
+  "prefix": "",
+  "localPath": ""
+}
