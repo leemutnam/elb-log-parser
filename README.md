@@ -1,2 +1,3 @@
 # elb-log-parser
-1. config-sample.json 을 참고하여 config.json 파일을 만든다
+___
+config-sample.json 을 참고하여 config.json 파일을 만들어야 한다
